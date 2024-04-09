@@ -2,7 +2,7 @@
   "displayName": "[Package Name]",
   "author": "Yewon Jung",
   "version": "1.0.0",
-  "name": "com.qhenshaw.[packagename]",
+  "name": "com.jung.[packagename]",
   "documentationUrl": "https://github.com/qhenshaw/[repourl]",
   "changelogUrl": "https://github.com/qhenshaw/[repourl]/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/qhenshaw/[repourl]/blob/main/LICENSE.md",
